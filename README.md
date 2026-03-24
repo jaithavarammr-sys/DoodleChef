@@ -1,7 +1,6 @@
 # Doodlechef
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mbl1wHxSewA?si=wKACvtTtVXLEIkw4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+https://www.youtube.com/embed/Mbl1wHxSewA?si=wKACvtTtVXLEIkw4
 
 ## What is DoodleChef
 We love games and wanted to incorporate drawing into it because there are a lot of people in the world that struggle to draw so why not help them get better!.
